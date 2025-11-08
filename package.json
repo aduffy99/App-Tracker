@@ -8,6 +8,9 @@
 "build": "vite build",
 "preview": "vite preview"
 },
+"engines": {
+"node": "20.x"
+},
 "dependencies": {
 "firebase": "^10.12.3",
 "lucide-react": "^0.395.0",
